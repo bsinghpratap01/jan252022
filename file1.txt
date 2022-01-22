@@ -1,1 +1,2 @@
 file1 content with line1 
+file1 content with line2 
